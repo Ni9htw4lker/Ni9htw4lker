@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ni9htw4lker
 - 👀 I’m interested in developing applications that add value to society. 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Django and React
 - 💞️ I’m looking to collaborate on any beginner project or share setups and bottlenecks
 - 📫 How to reach me, drop me a message if you are interested to reach me
 
